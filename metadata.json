@@ -1,0 +1,6 @@
+{
+  "name": "Patak - Offline El Niño Response Assistant",
+  "description": "Offline Local RAG assistant for barangay officials and rural farmers in the Philippines, delivering actionable checklists from PAGASA, DA, and DOH public advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
